@@ -1,0 +1,10 @@
+C:\Users\Cesar\source\repos\Taller_1\Taller_1\bin\Debug\Taller_1.exe.config
+C:\Users\Cesar\source\repos\Taller_1\Taller_1\bin\Debug\Taller_1.exe
+C:\Users\Cesar\source\repos\Taller_1\Taller_1\bin\Debug\Taller_1.pdb
+C:\Users\Cesar\source\repos\Taller_1\Taller_1\obj\Debug\Taller_1.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\Taller_1\Taller_1\obj\Debug\Taller_1.FmrCliente.resources
+C:\Users\Cesar\source\repos\Taller_1\Taller_1\obj\Debug\Taller_1.Properties.Resources.resources
+C:\Users\Cesar\source\repos\Taller_1\Taller_1\obj\Debug\Taller_1.csproj.GenerateResource.cache
+C:\Users\Cesar\source\repos\Taller_1\Taller_1\obj\Debug\Taller_1.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Taller_1\Taller_1\obj\Debug\Taller_1.exe
+C:\Users\Cesar\source\repos\Taller_1\Taller_1\obj\Debug\Taller_1.pdb
